@@ -9,6 +9,10 @@
     },
     "author": "sonyk9919",
     "license": "ISC",
+    "files": [
+      "./index.js",
+      "./src/counter.js"
+    ],
     "repository": {
       "type": "git",
       "url": "git+https://github.com/sonyk9919/sonyk-npm-test.git"
