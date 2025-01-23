@@ -1,0 +1,21 @@
+{
+    "name": "sonyk-npm-test",
+    "version": "0.0.1",
+    "main": "./index.js",
+    "description": "npm library upload test",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "sonyk9919",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sonyk9919/sonyk-npm-test.git"
+    },
+    "bugs": {
+      "url": "https://github.com/sonyk9919/sonyk-npm-test/issues"
+    },
+    "homepage": "https://github.com/sonyk9919/sonyk-npm-test#readme"
+  }
+   
